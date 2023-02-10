@@ -11,7 +11,7 @@
 
 railison.v@gmail.com
 
-# Hard Skills!!
+# 👨‍💻 Hard Skills!!
 <p align="justify">
  <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
  <img alt="CSS" src="https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
