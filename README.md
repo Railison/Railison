@@ -17,4 +17,6 @@ railison.v@gmail.com
  <img alt="CSS" src="https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-%230d1117?style=for-the-badge&logo=postgresql&logoColor=white"/>
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%230d1117?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img alt="PHP" src=" https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
